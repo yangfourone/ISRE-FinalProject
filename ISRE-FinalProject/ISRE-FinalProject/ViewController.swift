@@ -59,8 +59,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, CBCentralMana
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-
+        
         /** logo **/
         logo.image = UIImage(named: "coin.png")
 
